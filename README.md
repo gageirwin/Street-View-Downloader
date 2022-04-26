@@ -1,4 +1,4 @@
-# street_view-dl
+# Google Street View Downloader
 A downloader tool for google street view 360 images.
 
 ## How to use
